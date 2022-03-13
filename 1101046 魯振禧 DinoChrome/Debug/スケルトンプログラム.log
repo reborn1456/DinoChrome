@@ -1,0 +1,24 @@
+﻿  main.cpp
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(153): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(179): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(196): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' の宣言を確認してください
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(201): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' の宣言を確認してください
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(304): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(361): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(366): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(391): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(398): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(405): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(412): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(436): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(475): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(506): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(511): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(545): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(550): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(564): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\1101046 魯振禧 dinochrome\main.cpp(607): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' の宣言を確認してください
+  スケルトンプログラム.vcxproj -> E:\Documents\School Work\2019 - 2020\1101046 魯振禧 DinoChrome\Debug\スケルトンプログラム.exe
